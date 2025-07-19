@@ -56,18 +56,6 @@ web-midi-cc-controller/
 └── analysis.md         # Análisis técnico del proyecto
 ```
 
-## 🔧 Mejoras Implementadas
-
-### Desde la Versión Original
-- ✅ Eliminada dependencia de dispositivos MIDI físicos
-- ✅ Integración completa de Web Audio API
-- ✅ Controles de volumen y tipo de onda
-- ✅ Soporte para teclado físico
-- ✅ Feedback visual mejorado
-- ✅ Diseño responsive para móviles
-- ✅ Efectos de sonido suaves (fade in/out)
-- ✅ Indicador de nota activa
-- ✅ Instrucciones de uso integradas
 
 ### Características Técnicas
 - **Envolvente de Audio**: Fade in/out suave para evitar clicks
@@ -93,23 +81,9 @@ web-midi-cc-controller/
 
 ## 📝 Notas Técnicas
 
-- El proyecto ya no requiere Node.js ni servidor backend
+- El proyecto no requiere Node.js ni servidor backend
 - Funciona completamente en el navegador
 - No necesita instalación de dependencias
 - Compatible con todos los navegadores modernos que soporten Web Audio API
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Algunas ideas para futuras mejoras:
-
-- 🎼 Más escalas musicales
-- 🎚️ Efectos de audio (reverb, delay, filtros)
-- 📹 Grabación y reproducción de secuencias
-- 🎨 Más temas visuales
-- 🎵 Soporte para acordes
-- 📊 Visualizador de frecuencias
-
-## 📄 Licencia
-
-Este proyecto está disponible bajo licencia MIT. Siéntete libre de usarlo y modificarlo.
 
